@@ -11,7 +11,7 @@ namespace CSharpTest
 {
     class TestClass
     {
-        //static void Main(String[] args)
+        //static void Main(string[] args)
         //{
         //    Dog dog = new Dog(12, "Lucky");
         //    dog.Bark();
@@ -28,7 +28,7 @@ namespace CSharpTest
         string name;
 
         //构造方法
-        public Dog(int age, string name)
+        internal Dog(int age, string name)
         {
             this.age = age;
             this.name = name;
