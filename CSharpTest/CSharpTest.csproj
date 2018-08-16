@@ -46,7 +46,10 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestClass.cs" />
+    <Compile Include="TestClassInherit.cs" />
     <Compile Include="TestDynamic.cs" />
+    <Compile Include="TestFunctionReload.cs" />
+    <Compile Include="TestOperatorReload.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
