@@ -9,14 +9,14 @@ namespace CSharpTest
 {
     class TestInterface
     {
-        static void Main(string[] args)
-        {
-            CanSpeak speak = new People();
-            speak.Speak();
-            CanRun run = new People();
-            run.Run();
-            Console.Read();
-        }
+        //static void Main(string[] args)
+        //{
+        //    CanSpeak speak = new People();
+        //    speak.Speak();
+        //    CanRun run = new People();
+        //    run.Run();
+        //    Console.Read();
+        //}
         
     }
 
