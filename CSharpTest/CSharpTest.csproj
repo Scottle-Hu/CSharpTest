@@ -51,6 +51,7 @@
     <Compile Include="TestFunctionReload.cs" />
     <Compile Include="TestInterface.cs" />
     <Compile Include="TestOperatorReload.cs" />
+    <Compile Include="TestPreInstruction.cs" />
     <Compile Include="TestStructure.cs" />
   </ItemGroup>
   <ItemGroup>
