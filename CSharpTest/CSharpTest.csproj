@@ -49,6 +49,7 @@
     <Compile Include="TestClassInherit.cs" />
     <Compile Include="TestDynamic.cs" />
     <Compile Include="TestFunctionReload.cs" />
+    <Compile Include="TestInterface.cs" />
     <Compile Include="TestOperatorReload.cs" />
   </ItemGroup>
   <ItemGroup>
