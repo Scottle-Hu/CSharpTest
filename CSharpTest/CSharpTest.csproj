@@ -48,6 +48,7 @@
     <Compile Include="TestClass.cs" />
     <Compile Include="TestClassInherit.cs" />
     <Compile Include="TestDynamic.cs" />
+    <Compile Include="TestException.cs" />
     <Compile Include="TestFunctionReload.cs" />
     <Compile Include="TestInterface.cs" />
     <Compile Include="TestOperatorReload.cs" />
